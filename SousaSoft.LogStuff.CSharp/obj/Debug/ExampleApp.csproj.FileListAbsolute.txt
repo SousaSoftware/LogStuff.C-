@@ -1,0 +1,11 @@
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.CSharp.exe.config
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.CSharp.exe
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.CSharp.pdb
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\ExampleApp.csprojResolveAssemblyReference.cache
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\SousaSoft.LogStuff.CSharp.Properties.Resources.resources
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\ExampleApp.csproj.GenerateResource.Cache
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\SousaSoft.LogStuff.CSharp.exe
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\SousaSoft.LogStuff.CSharp.pdb
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.dll
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.pdb
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\obj\Debug\SousaSoft.LogStuff.CSharp.ExampleApp.resources

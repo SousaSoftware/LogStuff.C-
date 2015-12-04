@@ -1,0 +1,1 @@
+c:\users\sousasoft\documents\visual studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff.CSharp\bin\Debug\SousaSoft.LogStuff.CSharp.exe.config

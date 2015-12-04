@@ -1,0 +1,5 @@
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff\obj\Debug\SousaSoft.LogStuff.csprojResolveAssemblyReference.cache
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff\bin\Debug\SousaSoft.LogStuff.dll
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff\bin\Debug\SousaSoft.LogStuff.pdb
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff\obj\Debug\SousaSoft.LogStuff.dll
+c:\Users\SousaSoft\Documents\Visual Studio 2013\Projects\SousaSoft.LogStuff.CSharp\SousaSoft.LogStuff\obj\Debug\SousaSoft.LogStuff.pdb
